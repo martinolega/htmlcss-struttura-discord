@@ -32,6 +32,11 @@
     align-items: center;
 }
 
+.align-items-end
+{
+    align-items: flex-end;
+}
+
 .w-80pc
 {
     width: 80%;
@@ -40,6 +45,16 @@
 .w-20pc
 {
     width: 20%
+}
+
+.w-30pc
+{
+    width: 30%;
+}
+
+.w-25pc
+{
+    width: 25%;
 }
 
 .w-60pc
@@ -60,6 +75,16 @@
 .w-100pc
 {
     width: 100%;
+}
+
+.w-10pc
+{
+    width: 10%;
+}
+
+.h-100pc
+{
+    height: 100%;
 }
 
 .order-1
@@ -158,11 +183,21 @@
 {
     background-color: rgb(49, 49, 49);
 }
+
+.d-bg-aqua
+{
+    background-color: aqua;
+}
 /*DEBUG-HEIGHT*/
 
 .d-h-600
 {
     height: 600px;
+}
+
+.d-h-450
+{
+    height: 450px;
 }
 
 .d-h-100
@@ -183,6 +218,11 @@
 .d-h-40
 {
     height: 40px;
+}
+
+.d-h-50
+{
+    height: 50px;
 }
 
 .d-h-60
