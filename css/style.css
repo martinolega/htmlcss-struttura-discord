@@ -30,9 +30,19 @@
     max-width: 100%;
 }
 
-.d-w-80pc
+.w-80pc
 {
     width: 80%;
+}
+
+.w-20pc
+{
+    width: 20%
+}
+
+.w-60pc
+{
+    width:60%;
 }
 
 /*DEBUG*/
