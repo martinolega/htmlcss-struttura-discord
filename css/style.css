@@ -5,3 +5,129 @@
     padding:0;
     box-sizing: border-box;
 }
+
+/*UTILITY*/
+.flex
+{
+    display: flex;
+}
+
+.justify-content-center
+{
+    justify-content: center;
+}
+
+.align-items-center
+{
+    align-items: center;
+}
+
+.container
+{
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 1000px;
+    max-width: 100%;
+}
+
+.d-w-80pc
+{
+    width: 80%;
+}
+
+/*DEBUG*/
+/*DEBUG-BG*/
+.d-bg-red
+{
+    background-color: red;
+}
+
+.d-bg-blue
+{
+    background-color: blue;
+}
+
+.d-bg-green
+{
+    background-color: green;
+}
+
+.d-bg-black
+{
+    background-color: black;
+}
+
+.d-bg-yellow
+{
+    background-color: yellow;
+}
+
+.d-bg-pink
+{
+    background-color: pink;
+}
+
+.d-bg-purple
+{
+    background-color: purple;
+}
+
+.d-bg-lightgray
+{
+    background-color: lightgray;
+}
+
+.d-bg-white
+{
+    background-color: white;
+}
+
+.d-bg-dimgray
+{
+    background-color: dimgray;
+}
+
+.d-bg-lightblue
+{
+    background-color: lightblue;
+}
+
+.d-bg-orange
+{
+    background-color: orange;
+}
+/*DEBUG-HEIGHT*/
+.d-h-300
+{
+    height: 300px;
+}
+
+.d-h-500
+{
+    height: 500px;
+}
+
+.d-h-100
+{
+    height: 100px;
+}
+
+.d-h-50
+{
+    height: 50px;
+}
+
+.d-h-40
+{
+    height: 40px;
+}
+
+.d-h-200
+{
+    height: 200px;
+}
+
+.d-h-60
+{
+    height:60px;
+}
